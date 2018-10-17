@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "7E8A7015-BC09-43DB-96E1-0D71CEFD03B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D62F4B97-5756-4D07-B30D-09850DF83C97",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "94496188-1506-43E5-8FA0-7B12BB970F6B",
+    "height": 24,
+    "width": 73,
+    "x": 11,
+    "y": 360
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "55535994-4789-4738-A503-DABC06ED5C48"
+    }
+  ],
+  "name": "atom/ text link copy 9",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18AF7810-FBFC-4B0D-96B9-8C2CBDB16B9D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "FE5D3DBA-04DE-4B12-BFDA-CEAA71D8338A",
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "3137874B-43A3-42A2-85E8-5CD45038F787",
+      "transition": 0
+    }
+  }
+}

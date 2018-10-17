@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C2F9878C-EDE7-4F3D-8E31-1D6F9A6A5F24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF429267-D113-425D-93B6-CC5BC6D2B272",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE779A01-196F-41B9-8CC2-719BD1C6888B",
+    "height": 36,
+    "width": 78,
+    "x": 237,
+    "y": 405.9999999999999
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / mini button copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75AA2775-5B05-4482-BDBF-C40958540D2A",
+      "overrideName": "C7FA3B51-D0C6-42F7-B152-C2D80868EFC7_stringValue",
+      "value": "zip code"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1565AAA-01C7-4C8D-8DC4-10E5AA3B5BC3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F3A5482E-5D05-4A42-BBAE-E25D53EF8C74",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "78494E2E-AFF0-4E44-86B4-BFC8DA5BD140",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DE89BC5-CDFD-4560-A1B6-E729244A6A3C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3920A0C0-037B-4DD7-B3A5-D4134C072194",
+    "height": 72,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / web banner copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F2FEEA4-518B-4D4F-9300-1D5FFFFECB11",
+      "overrideName": "07F4B87D-2E39-4A81-9329-589D8EBFED39_stringValue",
+      "value": "BARREL"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5104E74-9E6D-4DF9-915C-32E8FDD7E297",
+      "overrideName": "660A05CE-1A72-4548-A8B3-087CA12F6E8A_stringValue",
+      "value": "Sign up"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA36F2D5-0007-4991-ADE6-561090EB462C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3C7AE1B1-58CB-40F0-BE68-C052AF020281",
+  "verticalSpacing": 0
+}

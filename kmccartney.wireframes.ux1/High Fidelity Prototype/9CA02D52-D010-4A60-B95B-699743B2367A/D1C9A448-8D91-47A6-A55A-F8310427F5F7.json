@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D1C9A448-8D91-47A6-A55A-F8310427F5F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0751208F-49A3-42E5-B47D-F27E9F969D68",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBF2F831-23EE-4652-8855-D75F84D62501",
+    "height": 60,
+    "width": 261,
+    "x": 57,
+    "y": 334
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / button 2 copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "554FB288-FCE1-45D1-AE11-C195AA855721",
+      "overrideName": "9F4B38D8-F1D2-4B88-94DE-358D31B2F546_stringValue",
+      "value": "card number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23D16C81-12FC-4C6D-913F-C1A978A89871",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AD7A090D-E792-4882-9CE0-84C4DCE1E694",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "02064474-D5E7-40B7-A9D9-8A89E4A9F18A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03A2CB4C-1676-4592-BC3B-4432EA1ED3CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "74CA01E8-21BA-47DD-9D34-C987A4311346",
+    "height": 605,
+    "width": 306,
+    "x": 35,
+    "y": 82
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Organism/ select option ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88A2B6DA-A33B-4570-8FF8-99817E70B19B",
+      "overrideName": "E5FAB299-7D1E-4DC9-B2FA-EE505DC7245C_stringValue",
+      "value": "Brah"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA8BAC4A-17BB-4B20-B6BA-FA2D5762BC95",
+      "overrideName": "C8AEAEB5-E8C4-4F3B-9D79-92D806AAFFAB_stringValue",
+      "value": "Choose Your Experience"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0127FBDB-2969-4856-BF97-27E43197B3C1",
+      "overrideName": "E340FBEE-C9A9-418B-A117-744064CC527E_stringValue",
+      "value": "About Us"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6739C31-D08E-4DD8-8EB7-6C74C3355B33",
+      "overrideName": "49A387C4-15D0-4026-A2D6-D834C5678D24_stringValue",
+      "value": "Terms of Use"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B23EF25D-4817-4BE6-9D89-115B977443BB",
+      "overrideName": "D4C51AAD-D21D-4E8A-9A3E-56ADFB6C7C22_stringValue",
+      "value": "Privacy Policy"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "198396AD-E804-4E36-A635-C76769DF4F6E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "958EBCA2-568F-4B82-8967-9CC8F3AC723E",
+  "verticalSpacing": 0
+}

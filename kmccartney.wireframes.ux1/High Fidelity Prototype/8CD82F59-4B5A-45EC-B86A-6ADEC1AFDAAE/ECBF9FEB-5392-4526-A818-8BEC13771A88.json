@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "ECBF9FEB-5392-4526-A818-8BEC13771A88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CBCF7A73-AA2B-40AB-A169-AC024C449263",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C056327-BE71-4853-A00A-63AF6A2637B8",
+    "height": 36,
+    "width": 106,
+    "x": 11,
+    "y": 374.9999999999999
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / mini button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0993F56-4454-469C-81EC-DEF3C15A9309",
+      "overrideName": "C7FA3B51-D0C6-42F7-B152-C2D80868EFC7_stringValue",
+      "value": "month"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6BC8472A-A61D-4628-836D-F97175D4ADAD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F3A5482E-5D05-4A42-BBAE-E25D53EF8C74",
+  "verticalSpacing": 0
+}

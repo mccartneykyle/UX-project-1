@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "F1E584AB-BD1C-4897-95FD-EE356AFD0079",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C1E0E96-A8AD-4169-B060-54CC61B69F8F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D6646F51-54F9-4839-84E0-3AEE466F4295",
+    "height": 60,
+    "width": 304,
+    "x": 45,
+    "y": 400
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ button copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B3ED835-8701-44D3-9C90-DC71DF912A1D",
+      "overrideName": "EF6872E6-CC1B-4CBD-A557-8DDE0318FC46_stringValue",
+      "value": "SEND ME A REST LINK"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B9A8C98-C1E4-4EF0-9A27-BB4A5FD1E5B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "47A79D5A-C7B4-4056-941C-D58B67A1FA7A",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "099CC109-DA55-42E2-81BE-8BE283D434B1",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

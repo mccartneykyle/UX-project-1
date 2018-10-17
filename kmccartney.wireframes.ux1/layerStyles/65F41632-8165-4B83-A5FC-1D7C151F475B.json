@@ -1,0 +1,13 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "65F41632-8165-4B83-A5FC-1D7C151F475B",
+  "name": "atom/ text link Style",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "65F41632-8165-4B83-A5FC-1D7C151F475B",
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

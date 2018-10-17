@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6AE78555-868E-42E6-8853-B7BD8AA94ACE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8318A03C-BD5C-4A01-9E4F-1FE9E7792CCD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B600AF2D-1A78-4F31-A740-E0AFC1FD92DE",
+    "height": 36,
+    "width": 106,
+    "x": 133,
+    "y": 374.9999999999999
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / mini button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D173DD41-A8EB-4D85-9651-0571D233D4B6",
+      "overrideName": "C7FA3B51-D0C6-42F7-B152-C2D80868EFC7_stringValue",
+      "value": "day"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5300B1C-775B-4AB2-86E6-DA15A87EB9B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F3A5482E-5D05-4A42-BBAE-E25D53EF8C74",
+  "verticalSpacing": 0
+}

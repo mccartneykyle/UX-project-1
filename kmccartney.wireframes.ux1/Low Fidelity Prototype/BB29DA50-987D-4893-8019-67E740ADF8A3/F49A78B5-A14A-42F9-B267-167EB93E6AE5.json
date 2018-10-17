@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "F49A78B5-A14A-42F9-B267-167EB93E6AE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F9CA227-F756-45F1-97D1-7E85A0C95E7B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79F4DCB0-9681-49A5-876F-92A690D12483",
+    "height": 60,
+    "width": 304,
+    "x": 35,
+    "y": 396
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ button copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CAB04B5-B9A8-4A29-BC65-DECAAA586684",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "47A79D5A-C7B4-4056-941C-D58B67A1FA7A",
+  "verticalSpacing": 0
+}

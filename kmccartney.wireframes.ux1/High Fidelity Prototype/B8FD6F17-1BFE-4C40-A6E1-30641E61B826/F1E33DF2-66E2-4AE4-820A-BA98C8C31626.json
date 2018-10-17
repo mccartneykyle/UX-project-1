@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "F1E33DF2-66E2-4AE4-820A-BA98C8C31626",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1FE21250-4033-415F-9CC8-567BFC6D887D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C029055-4B5F-4B24-8744-C64B3A27F16B",
+    "height": 60,
+    "width": 304,
+    "x": 38,
+    "y": 576
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ button copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D10D785-EAA1-426D-8342-D071FF8A415D",
+      "overrideName": "EF6872E6-CC1B-4CBD-A557-8DDE0318FC46_stringValue",
+      "value": "LOG IN"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6792DCF-A72B-40F5-9950-D9D186535D8D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "47A79D5A-C7B4-4056-941C-D58B67A1FA7A",
+  "verticalSpacing": 0
+}

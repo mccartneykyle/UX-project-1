@@ -1,0 +1,13 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "FE5D3DBA-04DE-4B12-BFDA-CEAA71D8338A",
+  "name": "text link ",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "FE5D3DBA-04DE-4B12-BFDA-CEAA71D8338A",
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
